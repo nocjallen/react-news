@@ -24,6 +24,6 @@ Each of these APIs offers a free developer tier which you will need to sign up f
 
 ## Running React News
 
-From the root of the project directory, run `npm start` to run the application in development mode and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+From the root of the project directory, run `npm install` followed by `npm start` to run the application in development mode and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Refer to the [Create React App](https://github.com/facebook/create-react-app) documentation to build a production version of this application.
